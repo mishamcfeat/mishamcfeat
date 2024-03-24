@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="./images/mishagif.gif">
 
 <h1 align="center">👋 Hi there, I'm Misha McFeat</h1>
-<h3 align="center">I am a software engineer, specialising in frontend and backend technologies.</h3>
+<h3 align="center">I am a full-stack software engineer, specialising in many frontend and backend technologies.</h3>
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1VU_OhVHNa1ViCzJbqj3TPnaHhnLQKqN7/view?usp=drive_link"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&labelColor=black" alt="CV" /></a>
