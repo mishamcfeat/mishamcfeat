@@ -15,9 +15,9 @@
 💡 **My Learning** 
 
 - 🔭 I’m currently working on [Food Delivery Platform (H.EAT)](https://github.com/mishamcfeat/FoodDeliveryPlatformH.EAT)
-- 🌱 I’m currently learning **Javascript, React, C#**
+- 🌱 I’m currently learning **Javascript, React, Java**
 - 📝 I have a personal website [here](https://mishamcfeat.vercel.app/)
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, 
 - 🎓 **Certifications**: AZ-900: Microsoft Azure Fundamentals [Score: 895]
 
 
