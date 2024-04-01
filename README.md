@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="./images/mishagif.gif">
 
-<h1 align="center">👋 Hi there, I'm Misha McFeat</h1>
+<h1 align="center">👋 Hi there, I am Misha McFeat</h1>
 <h3 align="center">I am a full-stack software engineer, specialising in many frontend and backend technologies.</h3>
 
 <p align="center">
