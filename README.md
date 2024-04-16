@@ -4,7 +4,7 @@
 <h3 align="center">I am a full-stack software engineer, specialising in many frontend and backend technologies.</h3>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1VU_OhVHNa1ViCzJbqj3TPnaHhnLQKqN7/view?usp=drive_link"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&labelColor=black" alt="CV" /></a>
+<a href="https://drive.google.com/file/d/1VU_OhVHNa1ViCzJbqj3TPnaHhnLQKqN7/view?usp=drive_link"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&labelColor=black" alt="Current_CV" /></a>
 <a href="https://linkedin.com/in/michael-mcfeat-1b2a79217" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michael McFeat LinkedIn" /></a>
 <a href="mailto:misha.mcfeat@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://mishamcfeat.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&labelColor=black&logo=firefox&logoColor=white" alt="Website" /></a>
