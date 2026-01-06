@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="./images/mishagif.gif">
 
-<h1 align="center">👋 Hi there, I am Misha McFeat</h1>
+<h1 align="center"> Hey there, I am Misha McFeat</h1>
 <h3 align="center">I am a full-stack software engineer, specialising in many frontend and backend technologies.</h3>
 
 <p align="center">
@@ -14,20 +14,46 @@
 
 💡 **My Learning** 
 
-- 🔭 I’m currently working on [Food Delivery Platform (H.EAT)](https://github.com/mishamcfeat/FoodDeliveryPlatformH.EAT)
-- 🌱 I’m currently learning **Javascript, React, Java**
-- 📝 I have a personal website [here](https://mishamcfeat.vercel.app/)
-- 💬 Ask me about **Python**, 
-- 🎓 **Certifications**: AZ-900: Microsoft Azure Fundamentals [Score: 895]
+- 🔭 I'm currently working on multiple shadow projects in the SAAS B2B food and SAAS B2C finance industry
+- 🌱 I'm currently specialising in **Swift, Kotlin, React, Java**
+- 📝 Here's my personal website [here](https://mishamcfeat.vercel.app/)
+- 🎓 **Certifications**: AWS CCP, AZ-900: Microsoft Azure Fundamentals
 
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages & Frameworks</h3>
 <p align="left" style="display: flex; flex-direction: row">
 
   <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
+      alt="Swift"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg"
+      alt="Objective-C"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+      alt="Kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+      alt="React"
       width="40"
       height="40"
     />
@@ -45,25 +71,7 @@
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      alt="Typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="C++"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="C#"
+      alt="TypeScript"
       width="40"
       height="40"
     />
@@ -78,18 +86,24 @@
     />
   </a>
 
-
   <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
-      alt="Kotlin"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="Python"
       width="40"
       height="40"
     />
   </a>
 
+  <a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
+      width="40"
+      height="40"
+    />
+  </a>
 
-  
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
@@ -98,6 +112,16 @@
       height="40"
     />
   </a>
+
+  <a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+      alt="Node.js"
+      width="40"
+      height="40"
+    />
+  </a>
+
 </p>
 
 <h3 align="left">Databases</h3>
@@ -122,7 +146,7 @@
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-      alt="MondoDB"
+      alt="MongoDB"
       width="40"
       height="40"
     />
@@ -143,11 +167,10 @@
       height="40"
     />
   </a>
-  
 
 </p>
 
-<h3 align="left">Cloud Technologies</h3>
+<h3 align="left">DevOps & Cloud</h3>
 <p align="left" style="display: flex; flex-direction: row">
 
   <a>
@@ -174,42 +197,6 @@
       height="40"
     />
   </a>
-  
-</p>
-
-<h3 align="left">Frameworks/Libraries</h3>
-<p align="left" style="display: flex; flex-direction: row">
-  <a>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-      alt="Node.js"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-      alt=".NET Core"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-
-</p>
-
-<h3 align="left">Tools</h3>
-<p align="left" style="display: flex; flex-direction: row">
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
@@ -222,14 +209,6 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
       alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-      alt="Postman"
       width="40"
       height="40"
     />
@@ -252,22 +231,31 @@
   </a>
   <a>
     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+      alt="Jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+      alt="Postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a>
+    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
       alt="Jira"
       width="40"
       height="40"
     />
   </a>
-  
-
-
 
 </p>
-  
 
 <br>
 
-<h3 align="left">Stats and Contributions:</h3>
-Stats             |  Contributions
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=mishamcfeat&show_icons=true&locale=en&theme=tokyonight)  |  ![](https://streak-stats.demolab.com/?user=mishamcfeat&theme=tokyonight)
+![](https://github-readme-streak-stats-eight.vercel.app?user=mishamcfeat&theme=tokyonight)
