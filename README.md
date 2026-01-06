@@ -267,10 +267,7 @@
 
 <br>
 
-
 <h3 align="left">Stats and Contributions:</h3>
-
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=mishamcfeat&show_icons=true&locale=en&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=mishamcfeat&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api?username=mishamcfeat&show_icons=true&locale=en&theme=tokyonight)  |  ![](https://streak-stats.demolab.com/?user=mishamcfeat&theme=tokyonight)
